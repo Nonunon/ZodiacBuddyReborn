@@ -3,7 +3,6 @@
  **Zodiac Buddy Reborn**
  
 ![Github Latest Releases](https://img.shields.io/github/downloads/FFXIV-CombatReborn/ZodiacBuddyReborn/latest/total.svg?style=for-the-badge)
-![Github All Releases](https://img.shields.io/github/downloads/FFXIV-CombatReborn/ZodiacBuddyReborn/total.svg?style=for-the-badge)
 ![Github License](https://img.shields.io/github/license/FFXIV-CombatReborn/ZodiacBuddyReborn.svg?label=License&style=for-the-badge)
 [![](https://dcbadge.limes.pink/api/server/p54TZMPnC9)](https://discord.gg/p54TZMPnC9)
 
